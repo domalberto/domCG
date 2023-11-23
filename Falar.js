@@ -1,7 +1,7 @@
 //Josué
 //Esse código JavaScript configura um objeto commands que define diferentes comandos de voz para interagir com uma página da web. 
 //Cada comando é uma chave do objeto commands e está associado a uma função correspondente.
-
+//Link do Site para comandos de voz: https://www.talater.com/annyang/
 <script>
 var commands = {
   // annyang will capture anything after a splat (*) and pass it to the function.
