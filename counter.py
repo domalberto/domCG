@@ -1,6 +1,8 @@
 #https://www.youtube.com/watch?v=RbqGPFrWZC8
 
-#Bruno & Bruno
+# Bruno & Bruno
+
+# Isso pode ser usado futuramente para através de gestos com a mão a pessoa assistir ao uso de equipamentos cirurgicos, diminuindo excesso de tremedeira.
 
 import cv2
 import mediapipe as mp
