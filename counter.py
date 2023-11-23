@@ -1,6 +1,6 @@
 #https://www.youtube.com/watch?v=RbqGPFrWZC8
 
-
+#Bruno & Bruno
 
 import cv2
 import mediapipe as mp
