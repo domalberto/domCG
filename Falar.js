@@ -1,4 +1,6 @@
 //Josué
+//Esse código JavaScript configura um objeto commands que define diferentes comandos de voz para interagir com uma página da web. 
+//Cada comando é uma chave do objeto commands e está associado a uma função correspondente.
 
 <script>
 var commands = {
